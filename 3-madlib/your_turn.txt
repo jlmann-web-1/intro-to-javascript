@@ -1,0 +1,52 @@
+This assignment counts as a 30-point Major Assessment. 
+
+1. Request that the user type in at least 15 words in the html form. Ask for the
+   words by part of speech (noun, verb, adjective, adverb, proper noun, etc.) You
+   can also ask for things like places. Use field ids like noun1, noun2, verb1, etc.
+   (4 points)
+
+2. Connect your HTML file to the story_maker.js file. Remember, the script tag
+   should be the very last element before the closing body tag.
+   (2 points)
+
+3. Make a button with the text "Make Story". The Make Story button should call
+   your makeStory() function which gets all of the form data and then builds and
+   displays your finished story. Click the button and make sure an alert displaying
+   "It works!" appears. Once it does, you can comment out the alert.
+   (2 points)
+
+4. Edit the section of the document which gets all form values. Be very careful here.
+   Spelling matters and JavaScript is case-sensitive. (At this point, nothing will
+   display when you click the button even if this section is correct. Remember, these
+   lines are only getting form values and storing them in memory.)
+   (4 points)
+
+5. Set title of story. Use at least one form value in the title.
+   (2 points)
+
+6. Use the variables storing form data to build your story. I've included lines in
+   the template for three paragraphs, but you can add as many paragraphs as you like.
+   (4 points)
+
+7. It's finally time to get your story to show. Display story by putting the title
+   and paragraphs into appropriate divs by using getElementById and innerHTML. Follow
+   examples in the form-processing example. Be sure you're looking closely at the
+   relationship between variable names and div names. In order to get credit for This
+   section, all values from the form must appear AND you must have proper spacing
+   around each word in the story. Pay close attention to the spaces around variables
+   in your story.
+   (10 points)
+
+8. Your story is free of gramatical and spelling errors.
+   (2 points)
+
+
+If everything works now, you have a 30/30 for this assignment. Do you want some extra
+credit? Do
+
+8. Customize the CSS for your story. Choose fonts and colors that are appropriate
+   for the theme of your story.
+   (3 points)
+
+9. Have an image show up when the Make Story button is clicked.
+   (3 points)
