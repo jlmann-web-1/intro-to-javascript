@@ -1,4 +1,4 @@
-This assignment counts as a 30-point Major Assessment. 
+This assignment counts as a 30-point Major Assessment.
 
 1. Request that the user type in at least 15 words in the html form. Ask for the
    words by part of speech (noun, verb, adjective, adverb, proper noun, etc.) You
@@ -37,7 +37,7 @@ This assignment counts as a 30-point Major Assessment.
    in your story.
    (10 points)
 
-8. Your story is free of gramatical and spelling errors.
+8. Your story is free of grammatical and spelling errors.
    (2 points)
 
 
